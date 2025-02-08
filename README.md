@@ -1,9 +1,10 @@
-## Hi there 👋
-
-# 👋 Xin chào! Tôi là Hoàng Dev
+## 👋 Xin chào! Tôi là Hoàng Nghĩa Minh Bảo
 
 - 🔭 I am currently working from home.
-- I graduated from the Faculty of Information Technology - Dalat University (2020 - 2024) | Major: Software Engineering | Academic ranking: Good | Cumulative GPA: 7.00/10.00
+- **🎓 Education:**  
+I graduated from **the Faculty of Information Technology - Dalat University** with a degree in **Software Engineering**.  
+🎖️ **Academic Ranking:** Good  
+📊 **Cumulative GPA:** 7.00 / 10.00
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
