@@ -17,4 +17,4 @@ I graduated from **the Faculty of Information Technology - Dalat University** wi
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoangminhbao8102&theme=react-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhbao8102&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhbao8102&hide_progress=true)
