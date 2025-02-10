@@ -14,3 +14,5 @@ I graduated from **the Faculty of Information Technology - Dalat University** wi
 - ⚡ Fun fact: ...
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoangminhbao8102&show_icons=truetrue&hide=contribs,prs&cache_seconds=86400&theme=github_dark)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoangminhbao8102&theme=react-dark)
