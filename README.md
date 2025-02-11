@@ -1,15 +1,15 @@
 ## 👋 Xin chào! Tôi là Hoàng Nghĩa Minh Bảo
 
 # 💫About Me :
-🔭 Hiện tại tôi đang làm việc tại nhà.
-🎓 Học vấn: Tôi tốt nghiệp Khoa Công nghệ thông tin - Đại học Đà Lạt | Chuyên ngành Kỹ thuật phần mềm.
-🎖️ Xếp hạng học tập: Tốt
-📊 Điểm trung bình tích lũy: 7.00 / 10.00 (Hệ 10), 2.58/4.00 (Hệ 4)
-🌱 Hiện tại tôi đang làm việc tại nhà và học chuyên về mảng Full-Stack Development và học thêm Mobile Development.
-👯 Tôi đang tìm kiếm cơ hội hợp tác trong các dự án nguồn mở.
-🤔 Tôi đang tìm kiếm sự trợ giúp về thiết kế hệ thống.
-💬 Hỏi tôi về câu chuyện đời sống và làm việc thường ngày của tôi.
-⚡ Sự thật thú vị: Tôi thích viết code vào từ thứ Hai đến thứ Sáu và thỉnh thoảng tôi viết vào ngày thứ Bảy. Ngoài ra sở thích của tôi là chơi thể thao như chơi cầu lông và bi-da, xem TV và thích đi mua sắm.
+- 🔭 Hiện tại tôi đang làm việc tại nhà.
+- 🎓 Học vấn: Tôi tốt nghiệp Khoa Công nghệ thông tin - Đại học Đà Lạt | Chuyên ngành Kỹ thuật phần mềm.
+- 🎖️ Xếp hạng học tập: Tốt
+- 📊 Điểm trung bình tích lũy: 7.00 / 10.00 (Hệ 10), 2.58/4.00 (Hệ 4)
+- 🌱 Hiện tại tôi đang làm việc tại nhà và học chuyên về mảng Full-Stack Development và học thêm Mobile Development.
+- 👯 Tôi đang tìm kiếm cơ hội hợp tác trong các dự án nguồn mở.
+- 🤔 Tôi đang tìm kiếm sự trợ giúp về thiết kế hệ thống.
+- 💬 Hỏi tôi về câu chuyện đời sống và làm việc thường ngày của tôi.
+- ⚡ Sự thật thú vị: Tôi thích viết code vào từ thứ Hai đến thứ Sáu và thỉnh thoảng tôi viết vào ngày thứ Bảy. Ngoài ra sở thích của tôi là chơi thể thao như chơi cầu lông và bi-da, xem TV và thích đi mua sắm.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/minh.bao.3152) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/minhbao.8102/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hoang-nghia-minh-bao-b5a285241/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@minhbao8102) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@baominh9227) 
