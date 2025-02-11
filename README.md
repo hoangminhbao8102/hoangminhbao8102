@@ -3,7 +3,7 @@
 # 💫About Me :
 - 🔭 Hiện tại tôi đang làm việc tại nhà.
 - 🎓 Học vấn: Tôi tốt nghiệp Khoa Công nghệ thông tin - Đại học Đà Lạt | Chuyên ngành Kỹ thuật phần mềm.
-- 🎖️ Xếp hạng học tập: Tốt
+- 🎖️ Xếp hạng học tập: Khá
 - 📊 Điểm trung bình tích lũy: 7.00 / 10.00 (Hệ 10), 2.58/4.00 (Hệ 4)
 - 🌱 Hiện tại tôi đang làm việc tại nhà và học chuyên về mảng Full-Stack Development và học thêm Mobile Development.
 - 👯 Tôi đang tìm kiếm cơ hội hợp tác trong các dự án nguồn mở.
